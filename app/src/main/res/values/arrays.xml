@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_url">
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/GoogleIO-2014-CastingToTheFuture.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/DesigningForGoogleCast.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/GoogleIO-2014-MakingGoogleCastReadyAppsDiscoverable.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ElephantsDream.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ForBiggerBlazes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ForBiggerEscapes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ForBiggerFun.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ForBiggerJoyrides.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/ForBiggerMeltdowns.mp4</item>
+    </string-array>
+
+    <string-array name="video_name">
+        <item>First Video</item>
+        <item>Second Video</item>
+        <item>Third Video</item>
+        <item>Fourth Video</item>
+        <item>Fifth Video</item>
+        <item>Sixth Video</item>
+        <item>Seventh Video</item>
+        <item>Eighth Video</item>
+        <item>Ninth Video</item>
+        <item>Ten Video</item>
+    </string-array>
+</resources>

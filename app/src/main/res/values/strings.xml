@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChromecastSample</string>
+
+    <string name="time_format">00:00</string>
+
+
+    <string name="app_id">4F8B3483</string>
+
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="action_settings">Settings</string>
+</resources>

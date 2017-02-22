@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Project     : Swing
+  ~ Filename    : fragment_common_video_player.xml
+  ~ Author      : manoj on 5/2/16 8:44 PM
+  ~ Comments    :
+  ~ Copyright   : Copyright © 2015, GolfingIndian.com
+  ~  	           Written under contract by Robosoft Technologies Pvt. Ltd.
+  ~ History     : NA
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33393E"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.robo.sample.chromecastapp.TextureVideoView
+            android:id="@+id/texture_video_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/video_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:textColor="@android:color/white" />
+</LinearLayout>
